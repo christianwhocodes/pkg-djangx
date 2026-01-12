@@ -1,8 +1,0 @@
-- [ ] A way to toggle dark class on html or body
-- [ ] HeaderConf
-- [ ] HeroConf
-- [ ] AboutConf
-- [ ] FooterConf
-- [x] URLConf
-- [ ] AOSInitConf
-- [x] Have defaults being set via the ConfField. The EnvFileGenerator should also show the defaults that variables use.

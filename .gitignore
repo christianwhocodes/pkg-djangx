@@ -3,7 +3,6 @@ __pycache__/
 
 # Package virtual environments
 /.venv/
-/node_modules/
 
 # Ruff cache
 /.ruff_cache/

@@ -3,7 +3,6 @@ __pycache__/
 
 # Virtual environment
 /.venv/
-/node_modules/
 
 # Static and media files
 /public/

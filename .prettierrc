@@ -1,3 +1,0 @@
-{
-  "plugins": ["prettier-plugin-django-template", "prettier-plugin-tailwindcss"]
-}
